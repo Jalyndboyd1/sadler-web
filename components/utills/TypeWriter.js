@@ -5,8 +5,9 @@ function TypeWriter() {
     return (
         <div style={{
             fontSize: '30px',
-            marginBottom: '-9px',
-            fontWeight: 300
+            marginBottom: '-19px',
+            fontWeight: 300,
+            zIndex: 1
         }}>
             <Typewriter
                 options={{
