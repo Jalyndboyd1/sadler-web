@@ -4,7 +4,7 @@ import NavLink from './utills/NavLink'
 
 function Nav() {
     return (
-        <div className='flex justify-between p-2.5 items-center bg-sadler-purple'>
+        <div className='flex justify-between p-2.5 pl-5 items-center bg-black'>
             {/* Nav Left / Img */}
             <Image src={logo} alt=""
                 width={85}
