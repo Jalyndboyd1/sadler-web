@@ -28,3 +28,7 @@ a {
     background: black;
   }
 }
+
+.Typewriter__cursor{
+  color: #8789cf !important;
+}

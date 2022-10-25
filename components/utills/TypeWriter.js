@@ -5,7 +5,6 @@ function TypeWriter() {
     return (
         <div style={{
             fontSize: '30px',
-            marginBottom: '-19px',
             fontWeight: 300,
             zIndex: 1
         }}>
