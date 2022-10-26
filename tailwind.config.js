@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
         'sadler-purple': '#a8abde',
+        'sadler-dark-purple': '#8789cf'
       },
     },
   },
