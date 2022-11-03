@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 function Footer() {
     return (
-        <div className='h-10 flex items-center justify-between p-7 bg-[#5f6769] text-white'>
+        <div className='h-10 flex items-center justify-between p-7 bg-[#5f6769] text-white fixed bottom-0 w-full'>
             {/* footer left */}
             <div>
                 © Sadler 2021
